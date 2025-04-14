@@ -1,0 +1,29 @@
+### my first post
+
+
+create a some of 
+
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
+
+
+
+new text
+
+
+I liked them because they don't arrange the pages you upload chronologically, but instead let you organise them hierarchically. At this point I realised that the kind of blog I like to read (and the kind that I'd like to write) isn't really a blog in the traditional sense, but is rather just a collection essays organised for others to read. The kind of blog I wanted wouldn't really privilege more recent posts over older ones, and might even contain several half finished posts which were all concurrent works in progress.
+
+I liked them because they don't arrange the pages you upload chronologically, but instead let you organise them hierarchically. At this point I realised that the kind of blog I like to read (and the kind that I'd like to write) isn't really a blog in the traditional sense, but is rather just a collection essays organised for others to read. The kind of blog I wanted wouldn't really privilege more recent posts over older ones, and might even contain several half finished posts which were all concurrent works in progress.
+
+I liked them because they don't arrange the pages you upload chronologically, but instead let you organise them hierarchically. At this point I realised that the kind of blog I like to read (and the kind that I'd like to write) isn't really a blog in the traditional sense, but is rather just a collection essays organised for others to read. The kind of blog I wanted wouldn't really privilege more recent posts over older ones, and might even contain several half finished posts which were all concurrent works in progress.
+
+I liked them because they don't arrange the pages you upload chronologically, but instead let you organise them hierarchically. At this point I realised that the kind of blog I like to read (and the kind that I'd like to write) isn't really a blog in the traditional sense, but is rather just a collection essays organised for others to read. The kind of blog I wanted wouldn't really privilege more recent posts over older ones, and might even contain several half finished posts which were all concurrent works in progress.
+
+
+
+
+
+I liked them because they don't arrange the pages you upload chronologically, but instead let you organise them hierarchically. At this point I realised that the kind of blog I like to read (and the kind that I'd like to write) isn't really a blog in the traditional sense, but is rather just a collection essays organised for others to read. The kind of blog I wanted wouldn't really privilege more recent posts over older ones, and might even contain several half finished posts which were all concurrent works in progress.
