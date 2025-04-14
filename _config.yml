@@ -20,7 +20,7 @@ twitter_username: "https://x.com/abbvs7"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
